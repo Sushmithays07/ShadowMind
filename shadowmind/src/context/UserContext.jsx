@@ -12,6 +12,8 @@ entertainment:1,
 interests:[]
 })
 
+
+
 return(
 
 <UserContext.Provider value={{userData,setUserData}}>
